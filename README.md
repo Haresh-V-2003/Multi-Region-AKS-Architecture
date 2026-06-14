@@ -1,5 +1,5 @@
-# Multi-Region-AKS-Architecture
 # 🌍 Multi-Region Azure Kubernetes Service (AKS) Architecture
+<img width="1484" height="960" alt="image" src="https://github.com/user-attachments/assets/d43d0807-ea00-4c3e-9fc1-eb370003424f" />
 
 > A highly available, active-active, globally distributed AKS platform built using Azure-native services and cloud architecture best practices.
 
